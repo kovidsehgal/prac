@@ -1,1 +1,1 @@
-# prac
+# Practice project for GitHub
